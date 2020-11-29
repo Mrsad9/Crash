@@ -2,7 +2,7 @@
 #
 #  [Program]
 #
-#  CUPP
+#  Crash
 #  Common User Passwords Profiler
 #
 #  [Author]
